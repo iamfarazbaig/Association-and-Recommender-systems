@@ -2,7 +2,7 @@
 
 This project is split into 2 parts.
 
-First we look at the Association analysis for a popular dataset Online Retail[Online Retail](http://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.xlsx) followed by Recommender Systems for MovieLens[Movielens](http://www.grouplens.org/system/files/ml-1m.zip) dataset.
+First we look at the Association analysis for a popular dataset [Online Retail](http://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.xlsx) followed by Recommender Systems for [Movielens](http://www.grouplens.org/system/files/ml-1m.zip) dataset.
 
 * Association Analysis
 
