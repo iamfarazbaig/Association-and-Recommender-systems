@@ -12,7 +12,7 @@ With the key sets of items within the dataset identified, we apply the associati
 * Recommender Systems
 
 We use the well-known MovieLens dataset (in this case the 1M version).
-The detail about the dataset is in the README[Readme](http://files.grouplens.org/papers/ml-1m-README.txt)
+The detail about the dataset is in the [README](http://files.grouplens.org/papers/ml-1m-README.txt)
  
  After loading and merging all the the data into one dataframe, we perform exploratory data analysis to find any possible outliers and to observe the data distribution. We then filter the data to a small threshold as it will remain persistent to the data. We plot the data with a histogram over the variance of using count and average values.
  
